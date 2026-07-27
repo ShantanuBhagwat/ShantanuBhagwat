@@ -1,8 +1,0 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-# portrait-only deps - not needed by the daily GitHub Action, only when
-# you re-run make_ascii_svg.py locally after changing your photo:
-pillow
-numpy
-opencv-python-headless
-rembg
