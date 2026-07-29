@@ -183,24 +183,7 @@ Contributed to a digital transformation project for BMC (Brihanmumbai Municipal 
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShantanuBhagwat&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF&border_color=4B2E9E&hide_border=false" width="49%" />
-<img src="https://streak-stats.demolab.com?user=ShantanuBhagwat&theme=tokyonight&background=0D1117&stroke=4B2E9E&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9B8FF&hide_border=false" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuBhagwat&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9B8FF&border_color=4B2E9E&hide_border=false" width="49%" />
-
-</div>
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShantanuBhagwat&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="100%" />
-
-</div>
 
 ### 📈 Contribution Activity
 
