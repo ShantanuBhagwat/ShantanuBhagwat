@@ -1,198 +1,267 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Shantanu%20Bhagwat&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Systems%20Builder%20%C2%B7%20Patent%20Holder&descAlignY=54&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B2E9E,100:8B5CF6&height=220&section=header&text=Shantanu%20Bhagwat&fontSize=52&fontColor=E9E4FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%2FML&descAlignY=58&descSize=18&descColor=C9B8FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+VIT+Vellore+%C2%B7+Class+of+2027;Ex+SDE+Intern+%40+NCDEX;Building+production-grade+backend+systems;Patent+Published+%F0%9F%93%9C" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Training+ML+models+for+real-time+detection;React+%2B+Spring+Boot+%2B+FastAPI;B.Tech+CSE+%40+VIT+Vellore" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://linkedin.com/in/ShantanuBhagwat">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:bhagwatshantanu916@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ShantanuBhagwat">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=0F0524)
+![CGPA](https://img.shields.io/badge/CGPA-8.44%2F10.0-6D28D9?style=flat-square&labelColor=0F0524)
+![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-6D28D9?style=flat-square&labelColor=0F0524)
 
-<img src="https://komarev.com/ghpvc/?username=ShantanuBhagwat&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="profile views"/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0524)](www.linkedin.com/in/bhagwatshantanu)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0524)](mailto:bhagwatshantanu916@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0524)](https://github.com/ShantanuBhagwat)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShantanuBhagwat&color=6D28D9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ShantanuBhagwat?style=flat-square&color=6D28D9&labelColor=0F0524)
+![Stars](https://img.shields.io/github/stars/ShantanuBhagwat?style=flat-square&color=6D28D9&labelColor=0F0524)
 
 </div>
 
-<br/>
+---
 
-## `class Shantanu:`
+### 🪐 About Me
 
-```python
-class Shantanu:
-    def __init__(self):
-        self.name         = "Shantanu Bhagwat"
-        self.location     = "Mumbai, Maharashtra, India"
-        self.education    = "B.Tech CSE @ VIT Vellore (2023 – 2027)  ·  CGPA 8.44/10"
-        self.currently    = "Building production-grade backend systems"
-        self.past_interns = ["NCDEX Ltd.", "ChainSys India Pvt. Ltd."]
-        self.achievement  = "Patent Published — Autonomous Intent-Driven Cloud Orchestrator"
+I'm a **Computer Science undergraduate at Vellore Institute of Technology (VIT), Vellore**, building production-grade software across the full stack — from microservice backends to real-time ML inference layers.
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something that scales. 🚀")
+My recent work spans **modernizing legacy enterprise systems** into scalable microservices architectures (React.js + Spring Boot + JWT/RBAC/LDAP), and **engineering an unsupervised ML pipeline** that detects compromised credentials in real time by learning per-user behavioral baselines instead of relying on static rules.
 
+I care about systems that are **explainable, secure, and production-ready** — not just accurate in a notebook. Whether it's an API Gateway securing inter-service communication or an anomaly score translated into plain-English reasoning for a SOC analyst, I focus on the layer between "it works" and "it's usable."
 
-Shantanu().say_hi()
+```yaml
+Engineering Focus:
+  full_stack:     React.js · Next.js · Spring Boot · FastAPI · Node.js
+  ai_ml:          Anomaly Detection · Unsupervised Learning · Explainable AI
+  systems:        Microservices · RBAC/LDAP/JWT · API Gateways · Docker
+  mindset:        Product-first engineering, security-conscious, recruiter-friendly code
 ```
 
-<table>
+**🎯 Open To:** Software Engineering roles (Full Stack / Backend) · AI/ML Engineering internships & new-grad roles · Open-source collaboration
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
 <tr>
-<td width="230" valign="top">
+<td align="center" valign="top" width="25%">
 
-```
-))111+I_))))////fjcxox/|)1)||||//|)||||)
-1)||t]l[vnonjjt))1[})|1)|tvnxvvnx/)|||||
--??[[<![cxunv]:^''``^,::I<vouunuo**uuunv
-?[1/t?!}cjcvv:.     .`'.``_*ouu*oxvvxxvj
-][)/f]i)xxxxu_.,<}/||1?>:`;o#**%*vjjccjj
-[[[}1+>)nnnn*/:[1}/xj)[[[;~%###8%uxcjjft
-ouxt)->|unnnoo]}+li|_!i-[?x8#%%&&8#o**oo
-&&#j|1~/uunuo*jcj/1x)|fjj/*8%88@$$8%&&8%
-$$#j/t+/ouuuo#c/|}?_-[1/)t&8%88@@@8*oonv
-$$%ctt+/ouuuo#*|--[-]]_?1%&8%8&@$@8*uoux
-$$8ctt+/ouuu*#%#|+_++~>+vu&&%88@@#*uuouu
-@&*j/)~/ouuo##*u|??_~+1uj;-xo8&$@x|tf/]}
-cjt//]</uxj/[+!-)~[}1n@cI,:;!+}jov)1[)/)
-ct1)f}>+~iI;::,+tjjxxxjI:;:;;;;;li<_-[|)
-/)[1f1I:;;;;;;:j&%%%8o!:;;:;;;;;;;,^,]tt
-?}||1~,:;;;;;:l#@&@@&_,;;:;;;;;::^^^,1t}
-]})/)I^,::::;:i%8&@@),;;:;;:::,^^,,^^>1_
-}[[)~^'',,,,:,!#%&&x;::,::,^,^.'^^^'^:1-
-)1))l''.'^^^,^Iu%8#<^,^,,^^''. `''''':fc
-```
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
 
 </td>
-<td valign="top">
+<td align="center" valign="top" width="25%">
 
-**`~/whoami`**
+**Frontend**
 
-```
-now       B.Tech CSE, class of 2027 @ VIT Vellore
-focus     distributed, production-grade backend systems
-stack     Java · Python · Spring Boot · FastAPI · React
-last-role SDE Intern @ NCDEX — AP Revamp Project
-patent    Autonomous Cloud Orchestrator (03/2026)
-```
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,mongodb,postgres" />
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**Tooling & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 
 </td>
 </tr>
 </table>
 
+---
+
+### 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Anomaly Detection** | ●●●●○ | Unsupervised Isolation Forest models on heavily imbalanced datasets (97% normal / 3% attack) |
+| **Behavioral Baselining** | ●●●●○ | Per-user/device baseline modeling for real-time deviation scoring |
+| **Explainable AI** | ●●●○○ | Converting anomaly scores into plain-English reasoning layers for end users |
+| **ML Serving / Inference** | ●●●●○ | Real-time inference endpoints via FastAPI, containerized with Docker Compose |
+| **Data Engineering** | ●●●○○ | Synthetic dataset generation modeling realistic attack-vector distributions |
+
+---
+
+### 🚀 Featured Projects
+
+<details open>
+<summary><b>🛡️ AI-Powered Behavioural Anomaly Detection</b></summary>
 <br/>
 
-## ⚙️ Tech Stack
+Full-stack cybersecurity platform that detects compromised credentials by learning per-user/device behavioral baselines and flagging deviations in real time — replacing static, signature-based detection rules with adaptive, learned behavior models.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python · FastAPI · React · Scikit-Learn · MongoDB · Docker |
+| **Scale** | Synthetic dataset spanning 7 distinct attack vectors, 97%/3% class imbalance |
+| **Performance** | Real-time FastAPI inference endpoints backing a live React/Vite SOC dashboard |
+| **Security** | Detects impossible travel, credential stuffing, and insider drift, among others |
+| **Impact** | Explainability layer converts anomaly scores into plain-English SOC-analyst reasoning |
+| **Repository** | [View on GitHub](https://github.com/ShantanuBhagwat) |
+
+An unsupervised Isolation Forest model is trained entirely on unlabeled behavioral data, making it viable in real-world conditions where labeled attack data is scarce. The system is fully containerized via Docker Compose, with MongoDB persisting session and scoring history for the dashboard layer.
+
+</details>
+
+<details>
+<summary><b>💪 Fitness Platform / Website</b></summary>
+<br/>
+
+Full-featured fitness platform combining exercise tutorials organized by muscle group, a BMI calculator, membership management, and an e-commerce storefront for gym equipment.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Firebase · RapidAPI · React · Next.js · Node.js · Tailwind CSS |
+| **Scale** | Multi-module platform: content, e-commerce, and membership in one system |
+| **Performance** | Mobile-first, responsive UI built with modular, reusable components |
+| **Security** | Firebase Authentication for secure user session management |
+| **Impact** | Real-time workout and nutrition insights via integrated RapidAPI services |
+| **Repository** | [View on GitHub](https://github.com/ShantanuBhagwat) |
+
+Firestore handles data persistence across the membership and e-commerce modules, while the component architecture was built for performance and scalability across device sizes.
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Software Developer Intern — Authorised Person Revamp Project**
+**National Commodity & Derivatives Exchange Ltd. (NCDEX)** · Mumbai
+`05/2026 – 07/2026`
+
+Contributed to the AP Revamp Project, modernizing a legacy JSP/Servlet system into a scalable, microservices-based platform with a React.js frontend and Spring Boot backend.
+
+- Implemented RBAC, LDAP authentication, and JWT-based access control
+- Integrated the React.js frontend with Spring Boot REST APIs via an API Gateway for secure inter-service communication
+- Collaborated with developers, QA, and Business Analysts on API integration and feature validation
+- Contributed to UAT/SIT documentation, deployment, and Agile sprint execution
+
+`React.js` `Spring Boot` `RBAC` `LDAP` `JWT` `API Gateway` `Agile`
+
+<br/>
+
+**Intern — AI-Powered Database Management Platform**
+**ChainSys India Pvt. Ltd.** · Mumbai
+`05/2024 – 07/2024`
+
+Contributed to a digital transformation project for BMC (Brihanmumbai Municipal Corporation), one of Asia's largest municipal corporations, via an AI-powered database management platform.
+
+- Worked with Java (Eclipse), SAP Enterprise Portal (SAP EP), and SAP S/4HANA
+- Assisted in portal development, ticket management, and issue resolution with cross-functional IT teams
+- Helped maintain data consistency and system integration across multiple application modules
+
+`Java` `SAP EP` `SAP S/4HANA` `Government IT Systems`
+
+---
+
+### 🏆 Achievements
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-**Infra & Tools**
-<br/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PuTTY-2E2E2E?style=flat-square"/>
+| Recognition | Details |
+|---|---|
+| 📜 **Patent Published** | *Autonomous Intent-Driven Cloud Orchestrator with NLP-Based SLA Auditing and Deterministic Resource Validation* — VIT, Vellore (03/2026) |
+| 🎤 **E-Cell Operations Executive & Senior Core Member** | Coordinated entrepreneurship events featuring founders, CEOs, and industry leaders; managed event logistics and speaker coordination (05/2024 – 03/2025) |
 
 </div>
 
-<br/>
+---
 
-## 💼 Experience
-
-```
-$ git log --oneline --graph --stat career
-
-* 2026-05  NCDEX Ltd. · Software Developer Intern (Mumbai)
-| AP Revamp Project — modernized a legacy JSP/Servlet system into a
-| microservices platform (React.js frontend + Spring Boot backend).
-| Shipped RBAC, LDAP auth, and a JWT-secured API Gateway. Partnered
-| with QA/BAs on UAT/SIT docs, deployment, and Agile sprint execution.
-|
-* 2024-05  ChainSys India Pvt. Ltd. · SDE Intern (Mumbai)
-| AI-powered database management platform for BMC (Brihanmumbai
-| Municipal Corporation) — one of Asia's largest municipal bodies.
-| Built on SAP EP / SAP S/4HANA + Java, keeping data consistent
-| across modules for large-scale government IT systems.
-```
-
-<br/>
-
-> 📜 **Patent Published** — *Autonomous Intent-Driven Cloud Orchestrator with NLP-Based SLA Auditing and Deterministic Resource Validation*, VIT Vellore (03/2026)
-
-<br/>
-
-## 🛰️ Projects
-
-**AI-Powered Behavioural Anomaly Detection** · `07/2026`
-<br/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-- Full-stack cybersecurity platform that flags compromised credentials by learning per-user/device behavioral baselines instead of relying on static signature-based rules.
-- Trained an unsupervised Isolation Forest model on a synthetic, heavily imbalanced dataset (97% normal / 3% attack) to catch 7 attack vectors, including impossible travel, credential stuffing, and insider drift.
-- Real-time FastAPI inference endpoints with an explainability layer that turns anomaly scores into plain-English reasoning, feeding a live React/Vite SOC dashboard backed by MongoDB and containerized with Docker Compose.
-
-<br/>
-
-**Fitness Platform / Website** · `05/2025`
-<br/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/-RapidAPI-0055DA?style=flat-square&logo=rapid&logoColor=white"/>
-
-- Full-featured fitness platform with exercise tutorials by muscle group, a BMI calculator, membership management, and an e-commerce store for gym equipment.
-- Firebase Authentication + Firestore for secure user management and data persistence; RapidAPI integration for real-time workout and nutrition insights.
-- Mobile-first, responsive UI built with React, Next.js, and Tailwind CSS.
-
-<br/>
-
-## 🎤 Extracurricular
-
-**Entrepreneurship Development Cell (E-Cell), VIT Vellore** — *Operations Executive & Senior Core Member* `05/2024 – 03/2025`
-- Coordinated entrepreneurship events featuring founders, CEOs, and industry leaders.
-- Managed event operations, logistics, speaker coordination, and participant engagement.
-
-<br/>
+### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShantanuBhagwat&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF&border_color=4B2E9E&hide_border=false" width="49%" />
+<img src="https://streak-stats.demolab.com?user=ShantanuBhagwat&theme=tokyonight&background=0D1117&stroke=4B2E9E&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9B8FF&hide_border=false" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuBhagwat&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9B8FF&border_color=4B2E9E&hide_border=false" width="49%" />
+
+</div>
+
+### 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShantanuBhagwat&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="100%" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuBhagwat&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9E4FF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShantanuBhagwat/ShantanuBhagwat/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ShantanuBhagwat/ShantanuBhagwat/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+### 🔭 Current Focus
+
+```yaml
+Learning:
+  - Distributed systems design patterns for microservices at scale
+  - Advanced explainability techniques for anomaly-detection models
+
+Building:
+  - AI-Powered Behavioural Anomaly Detection — SOC dashboard + inference layer
+  - Personal engineering portfolio and open-source contributions
+
+Exploring:
+  - Cloud-native orchestration (NLP-driven SLA auditing, resource validation)
+  - Production ML serving patterns beyond notebook prototypes
+
+Open To:
+  - Full Stack / Backend Software Engineering roles
+  - AI/ML Engineering internships and new-grad opportunities
+```
+
+---
+
+### 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-bhagwatshantanu916%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0524)](mailto:bhagwatshantanu916@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0524)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/-ShantanuBhagwat-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0524)](https://github.com/ShantanuBhagwat)
+[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0524)](https://your-portfolio-link.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Systems that explain themselves are the ones people actually trust."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4B2E9E,100:0F0524&height=120&section=footer" width="100%"/>
+
 </div>
